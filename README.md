@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on my Makers Bootcamp Final Project
 - ⚡ Fun fact: I play guitar in a touring band
 <br/>
-  
 ### Get in touch 
 [<img align="left" alt="Harry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target='_blank'/>](https://www.linkedin.com/in/harry-lingard-bright-884b24168/)
 [<img align="left" alt="Harry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:harry.lingardbright@gmail.com)
