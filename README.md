@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I play guitar in a touring band
   <br/>
 
-### Get in touch 
+### Get in touch: 
 [<img align="left" alt="Harry | LinkedIn" width="22px" src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" target='_blank'/>](https://www.linkedin.com/in/harry-lingard-bright-884b24168/)
 [<img align="left" alt="Harry | LinkedIn" width="22px" src="https://i0.wp.com/pinkeyegraphics.co.uk/wp-content/uploads/Gmail-icon.png?fit=512%2C512&ssl=1" />](mailto:harry.lingardbright@gmail.com)
 <br/>
