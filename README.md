@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 I am a chemistry graduate from the University of Oxford breaking into the world of tech!
+- 🎓 University of Oxford Chemistry graduate breaking into the world of tech!
 - 📖 I am soon graduating from a 12 week intensive bootcamp with [Makers](https://makers.tech/about-us/)
 - 💻 I'm currently looking for a job as a developer, my CV can be found [here](https://github.com/harrylb14/GitHub-CV)
 - 🌱 I’m looking to learn new languages and frameworks
