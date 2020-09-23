@@ -23,6 +23,7 @@
 <img align="left" alt="Jasmine" width="26px" src="https://i.imgur.com/NPme51t.png" />
 <img align="left" alt="RSpec" width="26px" src="https://dmlaziuk.github.io/images/rspec.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="psql" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -31,5 +32,7 @@
 <img align="left" alt="Heroku" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 <br/>
 <br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrylb14&layout=compact&hide=html" alt="harrylb14" />
 
 ![Harry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrylb14&count_private=true&show_icons=true&theme=vue)
