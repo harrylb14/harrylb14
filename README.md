@@ -33,6 +33,4 @@
 <br/>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrylb14&layout=compact&hide=html" alt="harrylb14" />
-
 ![Harry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrylb14&count_private=true&show_icons=true&theme=vue)
