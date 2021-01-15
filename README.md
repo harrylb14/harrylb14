@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🎓 University of Oxford Chemistry graduate breaking into the world of tech!
 - 📖 I have recently graduated from a 12 week intensive bootcamp with [Makers](https://makers.tech/about-us/)
-- 💻 I'm currently looking for a job as a developer, my CV can be found [here](https://github.com/harrylb14/GitHub-CV)
 - 🌱 I’m looking to learn new languages and frameworks
 - 👯 I’m always looking for projects to collaborate on
 - 🎸 Fun fact: I play guitar in a touring band
