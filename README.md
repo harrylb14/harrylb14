@@ -7,14 +7,14 @@
   <br/>
 
 ### Get in touch: 
-[<img align="left" alt="Harry | LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3yq-pS-VstVoJ7onUOf_f0&ust=1625562036975000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLCqjNDIy_ECFQAAAAAdAAAAABAD" target='_blank'/>](https://www.linkedin.com/in/harry-lingard-bright-884b24168/)
+[<img align="left" alt="Harry | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" target='_blank'/>](https://www.linkedin.com/in/harry-lingard-bright-884b24168/)
 [<img align="left" alt="Harry | LinkedIn" width="22px" src="https://i0.wp.com/pinkeyegraphics.co.uk/wp-content/uploads/Gmail-icon.png?fit=512%2C512&ssl=1" />](mailto:harry.lingardbright@gmail.com)
 <br/>
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
-<img align="left" alt="Django" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fdjango-2&psig=AOvVaw1BAzoEKDLM5BFm3sBZDEGn&ust=1625562248937000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDZi7XJy_ECFQAAAAAdAAAAABAN" />
-<img align="left" alt="AWS" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAmazon_Web_Services&psig=AOvVaw2GAwA_oUDm84DeQrlBwqYb&ust=1625562285560000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLCeosfJy_ECFQAAAAAdAAAAABAD" />
+<img align="left" alt="Django" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
+<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2880px-Amazon_Web_Services_Logo.svg.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
