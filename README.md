@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🎓 University of Oxford Chemistry graduate breaking into the world of tech!
 - 💻 Currently working as a Software Engineer at [Solirius Consulting](https://www.solirius.com/)
-- 📖 Interested in learning all things Python.
+- 📖 Interested in learning all things Python and DevOps
 - 👯 I’m always looking for projects to collaborate on
 - 🎸 Fun fact: I play guitar in a touring band
   <br/>
@@ -15,22 +15,15 @@
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
 <img align="left" alt="Django" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
 <img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2880px-Amazon_Web_Services_Logo.svg.png" />
+<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react.svg" />
-<img align="left" alt="Jest" width="26px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" />
-<img align="left" alt="Jasmine" width="26px" src="https://i.imgur.com/NPme51t.png" />
-<img align="left" alt="RSpec" width="26px" src="https://dmlaziuk.github.io/images/rspec.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="psql" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
+<img align="left" alt="psql" width="26px" src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Travis CI" width="26px" src="https://travis-ci.org/images/logos/TravisCI-Mascot-1.png" />
 <img align="left" alt="Heroku" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
 <br/>
