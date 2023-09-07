@@ -5,5 +5,3 @@
 - 👯 I’m always looking for projects to collaborate on
 - 🎸 Fun fact: I play guitar in a touring band
   <br/>
-
-![Harry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrylb14&count_private=true&show_icons=true&theme=vue)
